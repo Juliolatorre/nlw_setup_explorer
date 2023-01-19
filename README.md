@@ -1,1 +1,1 @@
-# nlw_setup_explorer
+# nlw_setup_explorer - Rocketseat
