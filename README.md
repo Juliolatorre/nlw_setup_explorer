@@ -36,15 +36,10 @@ O layout da aplicação está disponível no Figma:
   <img alt="Figma" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-<p align="center">
-  <img alt="NLWSetup" title="#NextLevelWeekSetup" src="./assets/6351b6d1e4fecfab1d0b185d_aplicacao-trilha-explorer.png" width="400px">
-</p>  
-
 ## 🖥 Preview 
 
-
 <p align="center">
-  <img alt="preview" title="#previewnlwcopa" src="./" width="400px">
+  <img alt="preview" title="#previewnlwcopa" src="./assets/Habits_preview.png" width="400px">
 </p>  
 
 ---
@@ -67,6 +62,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Júlio Latorre 👋🏽 [Entre em contato!](https://www.linkedin.com/in/j%C3%BAlio-cesar-de-latorre-33b49b1b5/)
+Feito com ❤️ por Júlio Latorre 👋🏽 
 
 ---
