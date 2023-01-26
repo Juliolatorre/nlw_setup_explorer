@@ -22,8 +22,8 @@ Você no controle da sua rotina!
 
 ## 💻 Sobre o projeto
 
-Projeto sendo construído durante o **NLW - Next Level Week Setup** da [Rocketseat](https://lp.rocketseat.com.br/nlw) do dia 16 de Janeiro ao 20 de Janeiro de 2023, na trilha Explorer. 
-Onde iremos desenvolver o Habits, que é um app para monitoramento de tarefas diárias para auxiliar seus usuários a rastrear suas atividades realizadas e não realizadas.
+Projeto sendo construído durante o **NLW - Next Level Week Setup** da [Rocketseat](https://lp.rocketseat.com.br/nlw) do dia 16 ao 20 de Janeiro de 2023, na trilha Explorer. 
+Onde iremos desenvolver o Habits, que é um app para monitoramento de tarefas diárias para auxiliar os seus usuários a rastrear as suas atividades realizadas e não realizadas.
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana. 🚀
 
 ---
