@@ -8,7 +8,7 @@ Você no controle da sua rotina!
 <br><br>
 
 <h4 align="center"> 
-	🚧  NLW Setup - Sendo Construído 🚧
+	🚧  NLW Setup - Finalizado 🚧
 </h4>
 
 ---
